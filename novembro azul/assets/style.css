@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+#borda{
+    width: 80%;
+    transition: 0.2s;
+}
+#borda:hover {
+    border: 2px solid rgba(58, 58, 255, 0.9) ;
+    
+}
+
+#prostata1{
+    text-align: center;
+}
+
+h2, #copy{
+    background-color:#0d6efd ;
+}
+
+#sintomas{
+    color: white;
+}
+
+#sintomas:hover {
+    color: #000000;
+    transition: all 0.45s ease 0s;
+ }
+
+#sobre1{
+        color: white;
+        font-weight: bold;
+}
+    
+#sobre1:hover {
+        color: #000000;
+        transition: all 0.45s ease 0s;
+}
+
+#tratamento1{
+    color: white;
+    font-weight: bold;
+}
+
+#tratamento1:hover {
+    color: #000000;
+    transition: all 0.45s ease 0s;
+}
+
+#contProstata{
+    color: white;
+}
+
+#contProstata:hover {
+    color: #000000;
+    transition: all 0.45s ease 0s;
+}
+
+span{
+    color: white;
+}
+
+span:hover {
+    transition: all 0.45s ease 0s;
+}
+.nav-item{
+    transition: 0.3s;
+}
+.nav-item:hover{
+    transform: scale(1.3,1.3);
+}
+
+.fundocor{
+    background-color: #e4e4e4;
+}
